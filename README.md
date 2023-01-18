@@ -6,9 +6,11 @@
 <ul>
   <li>
     React
-    <li>Router DOM<li>
-    <li>Recoil<li>
-    <li>Tests<li>
+    <ul>
+      <li>Router DOM</li>
+      <li>Recoil</li>
+      <li>Tests</li>
+    </ul>
   </li>
   <li>TypeScript</li>
 </ul>
