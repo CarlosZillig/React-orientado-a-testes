@@ -14,3 +14,5 @@
   </li>
   <li>TypeScript</li>
 </ul>
+
+<h4>Deploy: https://react-orientado-a-testes.vercel.app/sorteio</h4>
